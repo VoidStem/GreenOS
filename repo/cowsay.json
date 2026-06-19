@@ -1,5 +1,6 @@
 {
   "name": "cowsay",
+  "dependencies": ["perl"],
   "source": "https://github.com/cowsay-org/cowsay.git",
   "build": "make",
   "install": "make install"
