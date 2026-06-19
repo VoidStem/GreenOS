@@ -1,6 +1,0 @@
-{
-  "name": "ncurses",
-  "source": "https://github.com/mirror/ncurses.git",
-  "build": "./configure && make",
-  "install": "make install"
-}

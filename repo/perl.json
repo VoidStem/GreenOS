@@ -1,0 +1,7 @@
+{
+  "name": "perl",
+  "dependencies": [],
+  "source": "https://github.com/Perl/perl5.git",
+  "build": "./Configure -des -Dprefix=/usr/local && make test",
+  "install": "make install"
+}
