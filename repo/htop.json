@@ -1,7 +1,0 @@
-{
-  "name": "htop",
-  "dependencies": ["ncurses"],
-  "source": "https://github.com/htop-dev/htop.git",
-  "build": "./autogen.sh && ./configure && make",
-  "install": "make install"
-}
