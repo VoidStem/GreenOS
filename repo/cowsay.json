@@ -1,6 +1,6 @@
 {
   "name": "cowsay",
-  "source": "https://github.com/cowsay-org/cowsay.git",
+  "source": "https://github.com/cowsay-org/cohwsay.git",
   "build": "make",
   "install": "make install"
 }
