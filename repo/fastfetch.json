@@ -1,0 +1,6 @@
+{
+  "name": "fastfetch",
+  "source": "https://github.com/fastfetch-cli/fastfetch.git",
+  "build": "cmake -B build -S . && cmake --build build",
+  "install": "cmake --install build"
+}
