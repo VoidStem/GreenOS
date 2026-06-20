@@ -1,0 +1,7 @@
+{
+"name": "neofetch",
+"source": "https://github.com/dylanaraps/neofetch",
+"build": "make",
+"install": "make install"
+}
+
