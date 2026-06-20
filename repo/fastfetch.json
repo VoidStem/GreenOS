@@ -1,7 +1,0 @@
-{
-  "name": "fastfetch",
-  "dependencies": ["git", "cmake", "make", "gcc"],
-  "source": "https://github.com/fastfetch-cli/fastfetch.git",
-  "build": "cmake -B build -S . && cmake --build build",
-  "install": "cmake --install build"
-}
